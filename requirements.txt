@@ -1,0 +1,23 @@
+# ==============================================================================
+# 📦 DataSynth Requirements
+# Developer: Rabbi Sudo (https://rabbisudo.dev/)
+# Install Command: pip install -r requirements.txt
+# ==============================================================================
+
+# Telegram MTProto Client & Fast Crypto Acceleration
+pyrogram==2.0.106
+pytgcrypto>=1.2.12
+
+# Web Server (Flask) & Async HTTP Clients
+Flask>=3.0.0
+httpx>=0.27.0
+aiohttp>=3.12.0
+
+# Video Streaming, CDN & HLS M3U8 Downloader Engines
+m3u8>=6.0.0
+yt-dlp>=2026.3.3
+ffmpeg-python>=0.2.0
+
+# Environment Variables & Decryption Tools
+python-dotenv>=1.0.0
+pycryptodomex>=3.20.0
