@@ -4,9 +4,9 @@
 # Install Command: pip install -r requirements.txt
 # ==============================================================================
 
-# Telegram MTProto Client & Fast Crypto Acceleration
+# Telegram MTProto Client & Crypto Support
 pyrogram==2.0.106
-pytgcrypto>=1.2.12
+
 
 # Web Server (Flask) & Async HTTP Clients
 Flask>=3.0.0
